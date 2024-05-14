@@ -4,7 +4,7 @@
 
 Hi, my name is Blu. You might find me in places with the username bluthemeth or, less often, blurple.
 
-Some of these things are probably 90% unnecessary for a *github* account, but keep in mind that this file is linked on my [discord profile](#stuff-that-might-be-important-possibly) and that's the main purpose of it.
+Some of these things are probably 90% unnecessary for a *github* account, but keep in mind that this file is linked on my [discord profile](#stuff-that-might-be-important-possibly) and that's the main purpose of it. (*other website that's* not *on github is in the works!!*)
 
 I do stuff, I think. Someone fact check me on this one!
 
